@@ -1,0 +1,24 @@
+{
+  "name": "websitechecklist",
+  "version": "1.0.0",
+  "description": "## Monitor",
+  "main": "index.js",
+  "dependencies": {
+    "sonarwhal": "^0.20.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewMi11er/WebsiteChecklist.git"
+  },
+  "author": "Matathew <matthew@mi11er.net> (https://mi11er.net/)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/MatthewMi11er/WebsiteChecklist/issues"
+  },
+  "homepage": "https://github.com/MatthewMi11er/WebsiteChecklist#readme",
+  "private": true
+}

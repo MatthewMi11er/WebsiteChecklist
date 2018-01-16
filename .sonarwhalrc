@@ -1,0 +1,67 @@
+{
+  "browserslist": [],
+  "connector": {
+    "name": "chrome",
+    "options": {
+      "waitFor": 1000
+    }
+  },
+  "formatters": [
+    "codeframe"
+  ],
+  "ignoredUrls": [
+    {
+      "domain": "data:.*",
+      "rules": [
+        "http-cache"
+      ]
+    },
+    {
+      "domain": "https://www\\.google-analytics\\.com/.*",
+      "rules": [
+        "content-type",
+        "http-cache"
+      ]
+    }
+  ],
+  "rules": {
+    "amp-validator": "off",
+    "apple-touch-icons": "warning",
+    "axe": "warning",
+    "content-type": [
+      "warning",
+      {
+        ".*\\.js": "application/javascript; charset=utf-8"
+      }
+    ],
+    "disown-opener": "warning",
+    "highest-available-document-mode": "warning",
+    "html-checker": "warning",
+    "http-cache": "warning",
+    "image-optimization-cloudinary": "off",
+    "manifest-app-name": "warning",
+    "manifest-exists": "warning",
+    "manifest-file-extension": "warning",
+    "manifest-is-valid": "warning",
+    "meta-charset-utf-8": "warning",
+    "meta-viewport": "warning",
+    "no-disallowed-headers": [
+      "warning",
+      {
+        "ignore": [
+          "Server"
+        ]
+      }
+    ],
+    "no-friendly-error-pages": "warning",
+    "no-html-only-headers": "warning",
+    "no-http-redirects": "warning",
+    "no-protocol-relative-urls": "warning",
+    "no-vulnerable-javascript-libraries": "warning",
+    "ssllabs": "off",
+    "strict-transport-security": "warning",
+    "validate-set-cookie-header": "warning",
+    "x-content-type-options": "warning"
+  },
+  "rulesTimeout": 120000
+}

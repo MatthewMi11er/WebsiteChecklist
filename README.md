@@ -13,6 +13,9 @@
 ### Security
 - https://securityheaders.io/
 
+### Favicon
+- https://realfavicongenerator.net/
+
 ## MISC
 
 - [security.txt](https://securitytxt.org)
