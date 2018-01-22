@@ -13,6 +13,7 @@
 ### Security
 - https://securityheaders.io/
 - https://www.hardenize.com/
+- https://www.ssllabs.com/ssltest/
 
 ### Favicon
 - https://realfavicongenerator.net/
