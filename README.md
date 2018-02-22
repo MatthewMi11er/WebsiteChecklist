@@ -14,6 +14,8 @@
 - https://securityheaders.io/
 - https://www.hardenize.com/
 - https://www.ssllabs.com/ssltest/
+- https://csp-evaluator.withgoogle.com/ (https://csp.withgoogle.com/docs/index.html)
+- https://report-uri.com/home/analyse
 
 ### Favicon
 - https://realfavicongenerator.net/
