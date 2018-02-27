@@ -32,3 +32,7 @@
 ### Security
 - https://snyk.io/
 - https://nodesecurity.io
+
+## CODE
+- https://github.com/sindresorhus/awesome
+- https://github.com/stereobooster/package.json
