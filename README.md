@@ -8,7 +8,7 @@
 ## Scanners
 
 ### General
-- https://sonarwhal.com
+- https://webhint.io
 
 ### Security
 - https://securityheaders.io/
