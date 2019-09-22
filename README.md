@@ -9,6 +9,7 @@
 
 ### General
 - https://sonarwhal.com
+- https://web.dev
 
 ### Security
 - https://securityheaders.io/
