@@ -4,7 +4,7 @@
   "description": "## Monitor",
   "main": "index.js",
   "dependencies": {
-    "sonarwhal": "^0.20.1"
+    "sonarwhal": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {
